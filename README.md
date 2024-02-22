@@ -1,0 +1,1 @@
+DivaHustle Mern application is a blog dedicated for women 
